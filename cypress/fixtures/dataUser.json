@@ -1,0 +1,26 @@
+{
+    "admin": {
+        "username": "tomsmith",
+        "password": "SuperSecretPassword!"
+    },
+    "admin_password": {
+        "username": "tomsmith",
+        "password": "admin1234"
+    },
+    "admin_name": {
+        "username": "Admim",
+        "password": "SuperSecretPassword"
+    },
+    "admin_empty": {
+        "username": "",
+        "password": ""
+    },
+    "admin_empty_name": {
+        "username": "",
+        "password": "SuperSecretPassword"
+    },
+    "admin_empty_password": {
+        "username": "tomsmith",
+        "password": ""
+    }
+}

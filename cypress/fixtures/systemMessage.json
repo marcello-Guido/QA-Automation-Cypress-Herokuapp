@@ -1,0 +1,11 @@
+{
+    "error" : {
+        "username_error": "Your username is invalid!",
+        "password_error": "Your password is invalid!"
+    },
+
+    "success": {
+        "login_success": "You logged into a secure area!"
+    }
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "documentation_process",
+  "license": "ISC",
+  "author": "Marcello",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
