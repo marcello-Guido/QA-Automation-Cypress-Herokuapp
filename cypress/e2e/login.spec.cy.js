@@ -1,10 +1,8 @@
 import dataUser from '../fixtures/dataUser.json'
 import systemMessage from '../fixtures/systemMessage.json'
 import LoginPage from '../pages/loginPage'
-import LogoutPage from '../pages/logoutPage'
 
 const loginPage = new LoginPage()
-const logoutPage = new LogoutPage()
 
 describe('template spec', () => {
   it('Login with Success', () => {
