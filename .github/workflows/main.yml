@@ -17,10 +17,10 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 18.18.0  # versão estável para Cypress 15
 
       - name: Instalar dependências
-        run: npm install
+        run: npm ci
 
       - name: Executar testes Cypress
         uses: cypress-io/github-action@v6
