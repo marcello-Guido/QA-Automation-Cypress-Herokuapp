@@ -12,15 +12,15 @@
         "password": "SuperSecretPassword"
     },
     "admin_empty": {
-        "username": "",
-        "password": ""
+        "username": " ",
+        "password": " "
     },
     "admin_empty_name": {
-        "username": "",
+        "username": " ",
         "password": "SuperSecretPassword"
     },
     "admin_empty_password": {
         "username": "tomsmith",
-        "password": ""
+        "password": " "
     }
 }
