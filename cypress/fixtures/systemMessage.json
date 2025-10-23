@@ -5,7 +5,8 @@
     },
 
     "success": {
-        "login_success": "You logged into a secure area!"
+        "login_success": "You logged into a secure area!",
+        "logout_success": "You logged out of the secure area!"
     }
 
 }
